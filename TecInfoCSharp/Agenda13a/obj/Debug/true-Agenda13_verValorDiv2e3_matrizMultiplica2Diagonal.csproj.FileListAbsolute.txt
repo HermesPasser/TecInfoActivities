@@ -1,0 +1,6 @@
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal\bin\Debug\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal.exe.config
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal\obj\Debug\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal.csprojResolveAssemblyReference.cache
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal\obj\Debug\Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal.Menu.resources
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal\obj\Debug\true_Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal.Properties.Resources.resources
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal\obj\Debug\Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal.Prp.resources
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal\obj\Debug\true-Agenda13_verValorDiv2e3_matrizMultiplica2Diagonal.csproj.GenerateResource.Cache

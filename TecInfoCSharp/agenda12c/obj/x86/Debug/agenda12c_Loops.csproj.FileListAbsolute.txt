@@ -1,0 +1,17 @@
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\agenda12c_Loops.csprojResolveAssemblyReference.cache
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\agenda12c_Loops.csproj.ResolveComReference.cache
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\agenda12.Form1.resources
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\colab10.Properties.Resources.resources
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\agenda12c_Loops.csproj.GenerateResource.Cache
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\colab10.exe
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\colab10.pdb
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\bin\Debug\colab10.exe.manifest
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\bin\Debug\colab10.application
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\bin\Debug\colab10.exe
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\bin\Debug\colab10.pdb
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\bin\Debug\Interop.WMPLib.dll
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\colab10.exe.manifest
+C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\agenda12c\obj\x86\Debug\colab10.application

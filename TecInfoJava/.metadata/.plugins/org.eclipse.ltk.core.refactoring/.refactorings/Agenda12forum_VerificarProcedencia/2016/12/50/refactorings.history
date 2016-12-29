@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source folder &apos;Agenda12forum_VerificarProcedencia/src&apos; to &apos;verificarProcedencia&apos;&#x0D;&#x0A;- Original project: &apos;Agenda12forum_VerificarProcedencia&apos;&#x0D;&#x0A;- Original element: &apos;Agenda12forum_VerificarProcedencia/src&apos;&#x0D;&#x0A;- Renamed element: &apos;src&apos;" description="Rename source folder &apos;src&apos;" id="org.eclipse.jdt.ui.rename.source.folder" input="/src" name="verificarProcedencia" stamp="1481024071147" version="1.0"/>
+</session>
