@@ -1,6 +1,0 @@
-C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\colab10\obj\x86\Release\Interop.WMPLib.dll
-C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\colab10\obj\x86\Release\AxInterop.WMPLib.dll
-C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\colab10\obj\x86\Release\colab10.csproj.ResolveComReference.cache
-C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\colab10\obj\x86\Release\colab10.csprojResolveAssemblyReference.cache
-C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\colab10\obj\x86\Release\colab10.Form1.resources
-C:\Users\DSL\Dropbox\EAD\Atividades Informatica\Modulo III\tecead\colab10\obj\x86\Release\colab10.csproj.GenerateResource.Cache
